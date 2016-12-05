@@ -1,13 +1,12 @@
 #!/usr/bin/env python
 #-*- coding:utf-8 -*-
 # author:Zeng Xianhe
-#host_list列表是除namenode1以外的所有机器ip,主机名
+#host_list列表是主机ip和主机名
 host_list = [
      ('192.168.0.183','node1'),
      ('192.168.0.190','node2'),
      ('192.168.0.200','node3'),
 ]
-
 
 #ROOT用户执行的命令
 ROOT = [
