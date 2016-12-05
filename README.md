@@ -10,6 +10,6 @@ Python版本：  python2.7.5
 2. 如果想添加或删除某条命令,请更改ROOT列表或USER列表
 
 三、执行命令
-1. python basic.py   　　　　　　　#会要求输入服务器用户名密码
+1. python basic.py   　  #会要求输入服务器用户名密码
    第一次输入root用户和密码
 　 第二次输入普通用户和密码
